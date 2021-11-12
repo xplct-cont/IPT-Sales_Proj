@@ -1,0 +1,16 @@
+.hero{
+    background-image: url('../images/rrr.jpg');
+    height: 250px;
+}
+
+h2{
+    font-size: 45px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+body{
+    background-image: url('../images/ssss.jpg');
+}
+
